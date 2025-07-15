@@ -1,7 +1,7 @@
 ### About me  
 Roman Balashov, 1987  
-Backend developer  
 from Russia  
+Coding, sleeping, learning, hiking
 
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
