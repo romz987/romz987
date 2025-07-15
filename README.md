@@ -6,7 +6,7 @@ Coding, sleeping, learning, hiking
 ### Education  
 Current Computer Science Student  
 Academia Colon, Spain - Gestion de Marketing y Comumication: [Certificate](https://ibb.co/hJXcN8dP)    
-Academia Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/tMWqhFgb)  
+Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/tMWqhFgb)  
 
 ### Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
