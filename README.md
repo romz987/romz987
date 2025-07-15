@@ -1,7 +1,7 @@
 ### About me  
 Roman Balashov, 1987  
 from Russia  
-Coding, sleeping, learning, hiking
+Coding, sleeping, studying, hiking
 
 ### Education  
 Current Computer Science Student  
