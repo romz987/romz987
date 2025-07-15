@@ -18,4 +18,4 @@ from Russia
 
 ![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)
 ![Gentoo Linux](https://img.shields.io/badge/-Gentoo_linux-54487A?logo=gentoo&logoColor=white&style=for-the-badge)
-![Sway](https://img.shields.io/badge/-Sway-6fcbe2?logo=sway&logoColor=green&style=for-the-badge)
+![Sway](https://img.shields.io/badge/-Sway-3B7A99?logo=sway&logoColor=white&style=for-the-badge)
