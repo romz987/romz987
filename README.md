@@ -16,6 +16,6 @@ from Russia
 
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-grey?logo=archlinux)
-![Gentoo Linux](https://img.shields.io/badge/OS-Gentoo-informational?style=for-the-badge&logo=Gentoo&color=54487A)
+![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)
+![Gentoo Linux](https://img.shields.io/badge/-Gentoo_linux-54487A?logo=gentoo&logoColor=white&style=for-the-badge)
 ![Sway](https://shields.io/badge/SwayWM-6fcbe2?l&style=flat-square)
