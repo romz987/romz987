@@ -26,4 +26,10 @@ Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/
 ![Sway](https://img.shields.io/badge/-Sway-3B7A99?logo=sway&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 
-![Contact me](https://github.com/romz987/romz987/blob/romz987/master/contactme.gif)
+
+
+<div align=center>
+  
+  ![Contact me](https://github.com/romz987/romz987/blob/romz987/master/contactme.gif)
+  
+</div>
