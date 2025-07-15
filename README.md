@@ -28,4 +28,7 @@ Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/
 
 
 <br>
-<img src="https://github.com/romz987/romz987/blob/romz987/master/contactme.gif" style="width: 100%;" alt="Contact me">
+<img src="https://github.com/romz987/romz987/blob/romz987/master/contactme.gif" style="width: 50%;" alt="Contact me">
+
+<br>
+<img src="https://github.com/romz987/romz987/blob/romz987/master/contacts.png" style="width: 100%;" alt="Contact me">
