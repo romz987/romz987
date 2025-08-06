@@ -1,14 +1,17 @@
-### About me  
-Roman Balashov, 1987  
-from Russia  
+### About me
+
+Roman Balashov, 1987\
+from Russia\
 Coding, sleeping, studying, hiking
 
-### Education  
-Current Computer Science Student  
-Academia Colon, Spain - Gestion de Marketing y Comumication: [Certificate](https://ibb.co/hJXcN8dP)    
-Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/tMWqhFgb)  
+### Education
+
+Current Computer Science Student\
+Academia Colon, Spain - Gestion de Marketing y Comumication: [Certificate](https://ibb.co/hJXcN8dP)\
+Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/tMWqhFgb)
 
 ### Skills
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
@@ -26,6 +29,10 @@ Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/
 ![Sway](https://img.shields.io/badge/-Sway-3B7A99?logo=sway&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 
+### Dots
 
+My current NvChad based Neovim Python IDE configs
+
+[Neovim Python IDE](https://github.com/romz987/Nvim-python-IDE)
 
 <img src="https://github.com/romz987/romz987/blob/romz987/master/contactme.gif" style="width: 70%;" alt="Contact me">
