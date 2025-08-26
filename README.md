@@ -6,8 +6,8 @@ Coding, sleeping, studying, hiking
 
 ### Education
 
-Current Computer Science Student\
-Academia Colon, Spain - Gestion de Marketing y Comumication: [Certificate](https://ibb.co/hJXcN8dP)\
+"Information Systems and Programming" current student\
+Academia Colon, España - Gestion de Marketing y Comumication: [Certificate](https://ibb.co/hJXcN8dP)\
 Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/tMWqhFgb)
 
 ### Skills
@@ -31,7 +31,7 @@ Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/
 
 ### Dots
 
-My current NvChad based Neovim Python IDE configs
+Neovim Python IDE based NvChad
 
 [Neovim Python IDE](https://github.com/romz987/Nvim-python-IDE)
 
