@@ -13,9 +13,9 @@ Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/
 ### Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Quart](https://img.shields.io/badge/Quart-%23273695?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-CSS-663399?logo=CSS&logoColor=white&style=for-the-badge)
@@ -24,9 +24,6 @@ Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/
 
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge)
-![Gentoo Linux](https://img.shields.io/badge/-Gentoo_linux-54487A?logo=gentoo&logoColor=white&style=for-the-badge)
-![Sway](https://img.shields.io/badge/-Sway-3B7A99?logo=sway&logoColor=white&style=for-the-badge)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
 
 ### Dots
