@@ -6,9 +6,9 @@ Coding, sleeping, studying, hiking
 
 ### Education
 
-"Information Systems and Programming" current student\
-Academia Colon, España - Gestion de Marketing y Comumication: [Certificate](https://ibb.co/hJXcN8dP)\
-Academy Top, Russia - Web Programming with Python: [Certificate](https://ibb.co/tMWqhFgb)
+"Information Systems and Programming" student\
+"Gestion de Marketing y Comumication" Academia Colon, España: [Certificate](https://ibb.co/hJXcN8dP)\
+"Web Programming with Python" Academy Top, Russia: [Certificate](https://ibb.co/tMWqhFgb)
 
 ### Skills
 
