@@ -13,7 +13,6 @@ Coding, sleeping, studying, hiking
 ### Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Quart](https://img.shields.io/badge/Quart-%23273695?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white&style=for-the-badge)
 
@@ -31,5 +30,3 @@ Coding, sleeping, studying, hiking
 Neovim Python IDE based NvChad
 
 [Neovim Python IDE](https://github.com/romz987/Nvim-python-IDE)
-
-<img src="https://github.com/romz987/romz987/blob/romz987/master/contactme.gif" style="width: 70%;" alt="Contact me">
